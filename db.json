@@ -1,3 +1,20 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "task": "Checkup",
+      "date": "13th December",
+      "day": "Monday",
+      "time": "14:00",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "task": "Test",
+      "date": "9th December",
+      "day": "Thursday",
+      "time": "12:00",
+      "reminder": false,
+      "id": 2
+    }
+  ]
 }
